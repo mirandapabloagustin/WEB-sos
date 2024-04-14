@@ -1,0 +1,25 @@
+.about{
+    display: flex;
+    justify-content: center;   
+    background-color: rgb(37, 37, 37);
+}
+
+.info-about{
+    margin-left: 10% ;
+    margin-right: 10% ;
+    display: flex;
+    padding: 1%;
+    background-color: #f2f2f2;
+    align-items: center;
+}
+
+.text-content{
+    margin : 2%;
+}
+
+.about-img{
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+}
